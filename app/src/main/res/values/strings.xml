@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tarea2</string>
+    <string name="boton_vista1">Vista1</string>
+    <string name="boton_vista2">Vista2</string>
 </resources>
