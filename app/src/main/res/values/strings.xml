@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">Tarea2</string>
-    <string name="boton_vista1">Vista1</string>
-    <string name="boton_vista2">Vista2</string>
+    <string name="Agregar_prenda">Agregar prenda</string>
+    <string name="Consultar_outfit">Consultar Outfit</string>
+    <string name="Outfit_cabeza">Cabeza</string>
+    <string name="Outfit_cuerpo">Cuerpo</string>
+    <string name="Outfit_piernas">Piernas</string>
+    <string name="Outfit_pies">Pies</string>
+    <string name="Bienvenida_vista_dos">Personaliza tu Outfit</string>
+    <string name="Temperatura">10°</string>
+    <string name="Clima">Soleado</string>
+    <string name="Regreso">Regresar</string>
+    <string name="Bienvenida_vista_uno">Agrega una prenda para tus outfits</string>
 </resources>
