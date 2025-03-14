@@ -6,9 +6,17 @@
     <string name="Outfit_cuerpo">Cuerpo</string>
     <string name="Outfit_piernas">Piernas</string>
     <string name="Outfit_pies">Pies</string>
-    <string name="Bienvenida_vista_dos">Personaliza tu Outfit</string>
+    <string name="Bienvenida_vista_dos">¡Personaliza tu outfit!</string>
     <string name="Temperatura">10°</string>
     <string name="Clima">Soleado</string>
     <string name="Regreso">Regresar</string>
     <string name="Bienvenida_vista_uno">Agrega una prenda para tus outfits</string>
+    <string name="Login">¡Inicia sesión para guardar tus outfits y agregar prendas!</string>
+    <string name="Bienvenida">Es un gusto tenerte de vuelta</string>
+    <string name="Registro">Registrar</string>
+    <string name="Correo">Correo: </string>
+    <string name="CorreoEjemplo">ejemplos@example.com</string>
+    <string name="Contraseña">Contraseña: </string>
+    <string name="ContraseñaEjemplo">12345678</string>
+    <string name="IniciarSesion">Iniciar sesión</string>
 </resources>
