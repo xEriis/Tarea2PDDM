@@ -50,18 +50,21 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:src="@drawable/previous_vector"
-                android:background="@null"/>
+                android:background="@null"
+                android:contentDescription="@null"/>
             <ImageView
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@drawable/sobrero_amarillo"/>
+                android:src="@drawable/sobrero_amarillo"
+                android:contentDescription="@null"/>
             <ImageButton
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:src="@drawable/next_vector"
-                android:background="@null"/>
+                android:background="@null"
+                android:contentDescription="@null"/>
         </LinearLayout>
 
         <LinearLayout
@@ -74,18 +77,21 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:src="@drawable/previous_vector"
-                android:background="@null"/>
+                android:background="Imagen de vestido"
+                android:contentDescription="@null"/>
             <ImageView
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@drawable/vestido_beige"/>
+                android:src="@drawable/vestido_beige"
+                android:contentDescription="@null"/>
             <ImageButton
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:src="@drawable/next_vector"
-                android:background="@null"/>
+                android:background="@null"
+                android:contentDescription="@null"/>
         </LinearLayout>
 
         <LinearLayout
@@ -98,12 +104,14 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:src="@drawable/previous_vector"
-                android:background="@null"/>
+                android:background="@null"
+                android:contentDescription="@null"/>
             <ImageView
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@drawable/falda_vector"/>
+                android:src="@drawable/falda_vector"
+                android:contentDescription="@null"/>
             <ImageButton
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
@@ -122,18 +130,21 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:src="@drawable/previous_vector"
-                android:background="@null"/>
+                android:background="@null"
+                android:contentDescription="@null"/>
             <ImageView
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@drawable/zapatillas_beige"/>
+                android:src="@drawable/zapatillas_beige"
+                android:contentDescription="@null"/>
             <ImageButton
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:src="@drawable/next_vector"
-                android:background="@null"/>
+                android:background="@null"
+                android:contentDescription="@null"/>
         </LinearLayout>
 
         <LinearLayout
