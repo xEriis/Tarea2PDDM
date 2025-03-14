@@ -51,17 +51,17 @@
         <View
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="0.2"/>
+            android:layout_weight="0.1"/>
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="0.3"
+        android:layout_weight="0.5"
         android:gravity="center"
         android:orientation="vertical">
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="0.3"
+            android:layout_weight="1"
             android:src="@drawable/ropa"
             android:scaleType="center"
             android:contentDescription="@null"/>
@@ -73,11 +73,6 @@
 
     </LinearLayout>
 
-
-        <View
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="0.2"/>
 
         <LinearLayout
             android:layout_width="match_parent"
