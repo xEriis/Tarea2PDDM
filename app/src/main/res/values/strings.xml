@@ -10,6 +10,7 @@
     <string name="Temperatura">22°</string>
     <string name="Clima">Soleado</string>
     <string name="Regreso">Regresar</string>
+    <string name="Actualiza">Actualiza clima</string>
     <string name="Bienvenida_vista_uno">Agrega una prenda para tus outfits</string>
     <string name="Login">¡Inicia sesión para guardar tus outfits y agregar prendas!</string>
     <string name="Bienvenida">Es un gusto tenerte de vuelta</string>
